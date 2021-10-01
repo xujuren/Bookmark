@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bookmark</string>
+    <string name="my_list_of_urls">My List of URLs</string>
+    <string name="textview">TextView</string>
+</resources>
